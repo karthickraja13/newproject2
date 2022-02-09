@@ -1,5 +1,4 @@
         #############  FUNCTION CALLIING  ########
-
 def sub():
 	print("welcome to my tutorial")
 sub()
